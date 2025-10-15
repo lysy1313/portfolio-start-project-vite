@@ -2,7 +2,7 @@ import styled from "styled-components";
 import { SectionTitle } from "../../../components/SectionTitle";
 import { Menu } from "../../../components/menu/Menu";
 import { FlexWrapper } from "../../../components/FlexWrapper";
-import { Work } from "./work/work";
+import { Work } from "./work/Work";
 import socialImg from "../../../assets/images/Social.webp";
 import timerImg from "../../../assets/images/New-York.webp";
 
