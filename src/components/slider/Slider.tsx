@@ -14,6 +14,7 @@ export const Slider = () => {
           <Name>@ivan ivanow</Name>
         </Slide>
       </FlexWrapper>
+
       <Pagination>
         <span></span>
         <span></span>
